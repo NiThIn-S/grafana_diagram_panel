@@ -1,2 +1,2 @@
 graph LR;
-  C --> D;
+  C --> D --> E;
